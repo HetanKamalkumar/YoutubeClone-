@@ -6,4 +6,4 @@ A Youtube clone website that I have created using HTML/CSS
 
 # Live Demo 
 
-https://hetankamalkumar.github.io/YoutubeClone-/
+https://hetankamalkumar.github.io/Youtube_Clone/
