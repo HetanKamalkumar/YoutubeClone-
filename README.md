@@ -1,4 +1,4 @@
-# Youtube_clone-
+# Youtube Clone
 
 A Youtube clone website that I have created using HTML/CSS
 
